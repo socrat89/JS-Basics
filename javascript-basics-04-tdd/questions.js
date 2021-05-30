@@ -1,9 +1,9 @@
 
 const stringSize = (text) => {
-
+return text.length;
 }
 const replaceCharacterE = (text) => {
-
+    return text.replace("e" , " ");
 }
 const concatString = (text1, text2) => {
 
